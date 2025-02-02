@@ -13,3 +13,18 @@ C:\Users\extjaso\OneDrive - ERNI Group\Desktop\Bootcamp\Exercises\ErrorHandling-
 C:\Users\extjaso\OneDrive - ERNI Group\Desktop\Bootcamp\Exercises\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
 C:\Users\extjaso\OneDrive - ERNI Group\Desktop\Bootcamp\Exercises\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\extjaso\OneDrive - ERNI Group\Desktop\Bootcamp\Exercises\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\sg_ja\Desktop\kodes\erni_bootcamp\exercises\Error_Handling_Activity\ErrorHandling-Activity\csharp-quiz\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll

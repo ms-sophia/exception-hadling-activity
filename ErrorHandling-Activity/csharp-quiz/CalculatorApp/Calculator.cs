@@ -1,5 +1,15 @@
 namespace CalculatorApp;
+using System;
 
+public class DivideByZeroWithDoubleException : Exception
+{
+
+    //public DivideByZeroWithDoubleException() : base("Cannot divide by zero.") { }
+
+    public DivideByZeroWithDoubleException(string message) : base(message) { }
+
+    //public DivideByZeroWithDoubleException(string message, Exception inner) : base(message, inner) { }
+}
 public class Calculator
 {
     public double PerformOperation(double num1, double num2, string operation)
@@ -23,14 +33,18 @@ public class Calculator
 
 
                 case "divide":
-                    answer =  num1 / num2;
+                if (num2 == 0.0)
+                {
+                    throw new DivideByZeroWithDoubleException("Cannot divide by zero.");
+                }
+                answer =  num1 / num2;
                     break;
 
             }
 
 
         // TODO: Implement the PerformOperation method
-        throw new NotImplementedException();
+        //throw new NotImplementedException();
         return answer;
     }
 }

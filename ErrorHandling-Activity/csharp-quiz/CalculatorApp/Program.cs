@@ -1,5 +1,6 @@
 ﻿namespace CalculatorApp;
 
+
 class Program
 {
     static void Main(string[] args)
@@ -16,6 +17,7 @@ class Program
             string operation = Console.ReadLine()?.ToLower() ?? string.Empty;
 
             var calculator = new Calculator();
+           
             double result = calculator.PerformOperation(num1, num2, operation);
             Console.WriteLine($"The result is: {result}");
 
@@ -25,11 +27,11 @@ class Program
         {
             Console.WriteLine("Invalid Input Please enter numeric values");
         }
-        catch (DivideByZeroException)
-        {
-            Console.WriteLine("Cannot divide by zero.");
-        }
-        catch (Exception ex)
+        //catch (DivideByZeroWithDoubleException ex)
+        //{
+        //    Console.WriteLine($"Cannot divide by zero. {ex.Message}");
+        //}
+        catch (InvalidOperationException)
         {
             Console.WriteLine("An error occurred: The specified is not supported");
         }
